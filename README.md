@@ -11,3 +11,7 @@ We decided to make Aqua Probe because we have always been interested in the unde
 How to use Aqua Probe:
 
 To use Aqua probe simply just connect the controller and video feed to your phone and place it in the water, then actrivate the propelers and fill the ballistic and you are ready to go. The submarine has a run time of approx 30 mins until you need to surface. If you exceed this limit the power will run out however due to the externam 5m depth antenna this isnt an issue as you can retrive the submarine by pullin on the cord.
+
+Render of the Submarine:
+
+
